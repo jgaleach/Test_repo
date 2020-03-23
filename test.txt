@@ -1,1 +1,3 @@
-this is my test. I've added text to my file.
+this is my test. I've added text to my file.  
+
+Another line
